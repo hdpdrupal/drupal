@@ -1,4 +1,5 @@
 #!/bin/bash
+# -*- ENCODING: UTF-8 -*-
 
 cd /var/www/html/drupal
 
