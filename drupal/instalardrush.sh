@@ -1,4 +1,4 @@
-
+#!/bin/bash
 cd ~/ 
 wget http://ftp.drupal.org/files/projects/drush-7.x-5.1.tar.gz
 tar -xzf drush-7.x-5.1.tar.gz
